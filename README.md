@@ -11,7 +11,8 @@ npm start
 
 ## Wzorce
  - Factory
- - Singeleton
+ - Factory Method
+ - Singleton
  - Builder
  - Command
  - Strategy
